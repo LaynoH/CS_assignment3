@@ -1,0 +1,15 @@
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/bin/Debug/net6.0/assign3
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/bin/Debug/net6.0/assign3.deps.json
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/bin/Debug/net6.0/assign3.runtimeconfig.json
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/bin/Debug/net6.0/assign3.dll
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/bin/Debug/net6.0/assign3.pdb
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.csproj.AssemblyReference.cache
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.AssemblyInfoInputs.cache
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.AssemblyInfo.cs
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.csproj.CoreCompileInputs.cache
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.dll
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/refint/assign3.dll
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.pdb
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/assign3.genruntimeconfig.cache
+/Users/elainechiang/Desktop/life/antra/assign3/assign3/obj/Debug/net6.0/ref/assign3.dll
